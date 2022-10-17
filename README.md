@@ -6,4 +6,4 @@ At the end of the trials and variations it seems that the first baseline model p
 
 
 
-![alt text](https://github.com/Gsilvera24/Algorithmic-Trading-Using-Python/blob/main/baseline.html)
+![alt text](baseline.html)
