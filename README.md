@@ -6,4 +6,4 @@ At the end of the trials and variations it seems that the first baseline model p
 
 
 
-![alt text](baseline.html)
+baseline.html
